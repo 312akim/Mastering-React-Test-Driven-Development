@@ -13,3 +13,21 @@ export const sampleAppointments = [
     { startAt: at(16), customer: { firstName: 'Jules'} },
     { startAt: at(17), customer: { firstName: 'Stevie'} },
 ]
+
+const services = [
+    'Cut',
+    'Blow-dry',
+    'Cut & color',
+    'Beard trim',
+    'Cut & beard trim',
+    'Extensions'
+];
+
+const stylists = [
+    'Richard',
+    'Ronald',
+    'Rachel',
+    'Rochelle',
+    'Ricky',
+    'Ralph'
+];
